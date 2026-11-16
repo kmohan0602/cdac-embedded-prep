@@ -1,117 +1,130 @@
-# CCAT Study Timetable
+# CCAT Study Timetable — Beginner Pace
 **Exam Date: January 9, 2027**
-**Study Period: Nov 16 – Jan 2 (48 days)**
+**Study Period: Nov 17 – Jan 2 (47 days)**
 **Mock Test Week: Jan 3 – Jan 9**
+**Daily: 2 hrs Aptitude + 2 hrs Section B or C**
 
 ---
 
-## Daily Schedule (4 hours/day)
-| Time Slot | Section | Duration |
-|-----------|---------|----------|
-| Morning (any 2 hrs) | Section A — Aptitude | 2 hours |
-| Evening (any 2 hrs) | Section B or C | 2 hours |
+## How to Use This Plan
+- Open the `topic.md` file for each day's topic
+- Read the "What to Read" links first (30–45 min)
+- Then do the practice questions linked at the bottom
+- Don't skip — each topic builds on the previous one
 
 ---
 
-## Phase 1: Foundation (Nov 16 – Nov 30) — 15 days
-### Section A: Aptitude (2 hrs/day)
-Cover all 10 aptitude topics — 1–2 topics per day
+## Phase 1: Section B — C Programming (Nov 17 – Nov 26) — 10 days
+*Starting with C because it's the heaviest topic in Section B.*
+*Aptitude runs in parallel every day — 1 topic per day.*
 
-| Day | Date | Aptitude Topic | Section B/C Topic |
-|-----|------|----------------|-------------------|
-| 1  | Nov 16 | 01 Number System | Section B: 01 C Programming (Part 1 — variables, datatypes, operators) |
-| 2  | Nov 17 | 02 Percentages | Section B: 01 C Programming (Part 2 — pointers, memory layout) |
-| 3  | Nov 18 | 03 Profit & Loss | Section B: 01 C Programming (Part 3 — structs, macros, bitwise) |
-| 4  | Nov 19 | 04 Time & Work | Section B: 02 Data Structures (Part 1 — arrays, linked list) |
-| 5  | Nov 20 | 05 Time Speed Distance | Section B: 02 Data Structures (Part 2 — stack, queue, trees) |
-| 6  | Nov 21 | 06 Ratio & Proportion | Section B: 02 Data Structures (Part 3 — sorting complexities, hashing) |
-| 7  | Nov 22 | **REVISION: Topics 01–06** | **REVISION: C Programming + DS** |
-| 8  | Nov 23 | 07 Permutation & Combination | Section B: 03 OS (Part 1 — process states, scheduling) |
-| 9  | Nov 24 | 08 Probability | Section B: 03 OS (Part 2 — memory management, paging) |
-| 10 | Nov 25 | 09 Logical Reasoning (Part 1 — number series, blood relations) | Section B: 03 OS (Part 3 — deadlock, semaphore) |
-| 11 | Nov 26 | 09 Logical Reasoning (Part 2 — syllogism, coding-decoding) | Section B: 04 DBMS (Part 1 — ER model, keys, normalization) |
-| 12 | Nov 27 | 10 Verbal Ability | Section B: 04 DBMS (Part 2 — SQL joins, ACID) |
-| 13 | Nov 28 | **REVISION: Topics 07–10** | Section B: 05 Computer Networks (Part 1 — OSI, TCP/IP) |
-| 14 | Nov 29 | **Full Aptitude Revision** | Section B: 05 Computer Networks (Part 2 — IP, TCP vs UDP, ports) |
-| 15 | Nov 30 | **Aptitude Mock: 30 Qs (IndiaBIX)** | **REVISION: OS + DBMS + CN** |
+| Day | Date | Aptitude (2 hrs) | Section B — C Programming (2 hrs) |
+|-----|------|------------------|------------------------------------|
+| 1  | Nov 17 | 01 Number System — read topic.md + 20 IndiaBIX Qs | Variables, Datatypes, printf/scanf — GFG basics |
+| 2  | Nov 18 | 01 Number System — 30 more practice Qs | If-else, loops, switch — write simple programs |
+| 3  | Nov 19 | 02 Percentages — read topic.md + 20 Qs | Functions — declaration, definition, recursion basics |
+| 4  | Nov 20 | 02 Percentages — 30 more practice Qs | Arrays — 1D, 2D, passing to functions |
+| 5  | Nov 21 | 03 Profit & Loss — read topic.md + 20 Qs | Pointers — what is a pointer, *, &, pointer arithmetic |
+| 6  | Nov 22 | 03 Profit & Loss — 30 more Qs | Pointers — pointer to array, pointer to function |
+| 7  | Nov 23 | **REVISION: Topics 01–03 (do 30 mixed Qs)** | Strings — char array, strlen, strcmp, strcpy |
+| 8  | Nov 24 | 04 Time & Work — read topic.md + 20 Qs | Structures — define, access, sizeof, struct padding |
+| 9  | Nov 25 | 04 Time & Work — 30 more Qs | Storage classes (auto, static, extern, register) + volatile |
+| 10 | Nov 26 | 05 Time Speed Distance — read topic.md + 20 Qs | Macros, bitwise operators — set/clear/toggle/check bit |
 
 ---
 
-## Phase 2: Electronics & Embedded + Reinforcement (Dec 1 – Dec 20) — 20 days
+## Phase 2: Section B — Data Structures + OS (Nov 27 – Dec 7) — 11 days
 
-| Day | Date | Aptitude (2 hrs) | Section C Topic (2 hrs) |
-|-----|------|------------------|--------------------------|
-| 16 | Dec 1  | Aptitude: Weak topic revision | Section C: 01 Number Systems — binary/hex/octal conversions |
-| 17 | Dec 2  | Number System practice (IndiaBIX 30 Qs) | Section C: 02 Logic Gates — all 7 gates, De Morgan's |
-| 18 | Dec 3  | Percentages + Profit Loss practice | Section C: 02 Logic Gates practice (IndiaBIX 30 Qs) |
-| 19 | Dec 4  | Time Work + TSD practice | Section C: 03 Combinational Circuits — adder, MUX, decoder |
-| 20 | Dec 5  | Ratio + P&C practice | Section C: 03 Combinational Circuits practice |
-| 21 | Dec 6  | **REVISION: Aptitude Phase 1** | Section C: 04 Flip-Flops — SR, D, JK, T truth tables |
-| 22 | Dec 7  | Probability + Logical Reasoning practice | Section C: 04 Flip-Flops practice (IndiaBIX 30 Qs) |
-| 23 | Dec 8  | Verbal Ability practice | Section C: 05 Microcontroller Basics — 8051, memory types |
-| 24 | Dec 9  | Aptitude full set (IndiaBIX 30 Qs) | Section C: 05 MCU practice + watchdog, ADC, PWM |
-| 25 | Dec 10 | **REVISION: Logical Reasoning deep** | Section C: 06 Embedded C — volatile, memory-mapped I/O |
-| 26 | Dec 11 | Aptitude weak spots | Section C: 06 Embedded C — UART, SPI, I2C comparison |
-| 27 | Dec 12 | Aptitude practice (IndiaBIX 30 Qs) | **REVISION: Section C full** |
-| 28 | Dec 13 | **REVISION: Section B — C Programming** | **REVISION: Section C — Logic Gates + FF** |
-| 29 | Dec 14 | **REVISION: Section B — DS + OS** | **REVISION: Section C — MCU + Embedded C** |
-| 30 | Dec 15 | **REVISION: Section B — DBMS + CN** | Section C practice questions (Sanfoundry 30 Qs) |
-| 31 | Dec 16 | Aptitude timed drill (30 Qs in 30 min) | Section B timed drill (30 Qs in 30 min) |
-| 32 | Dec 17 | Aptitude weak spots only | Section C timed drill (20 Qs in 20 min) |
-| 33 | Dec 18 | **Full Aptitude Revision** | **Full Section B Revision** |
-| 34 | Dec 19 | Aptitude practice | **Full Section C Revision** |
-| 35 | Dec 20 | **Buffer / Catch-up day** | **Buffer / Catch-up day** |
+| Day | Date | Aptitude (2 hrs) | Section B (2 hrs) |
+|-----|------|------------------|-------------------|
+| 11 | Nov 27 | 05 Time Speed Distance — 30 more Qs | **C Programming REVISION** — output prediction MCQs (Sanfoundry) |
+| 12 | Nov 28 | 06 Ratio & Proportion — read topic.md + 20 Qs | DS: Arrays — searching, sorting concept |
+| 13 | Nov 29 | 06 Ratio & Proportion — 30 more Qs | DS: Linked List — singly, insert/delete, reverse |
+| 14 | Nov 30 | **REVISION: Topics 01–06 (40 mixed Qs)** | DS: Stack and Queue — push/pop, enqueue/dequeue |
+| 15 | Dec 1  | 07 Permutation & Combination — read + 20 Qs | DS: Trees — binary tree, BST, inorder/preorder/postorder |
+| 16 | Dec 2  | 07 P&C — 30 more Qs | DS: Sorting — bubble, selection, insertion, merge, quick — complexities table |
+| 17 | Dec 3  | 08 Probability — read topic.md + 20 Qs | DS: Hashing — hash function, collision |
+| 18 | Dec 4  | 08 Probability — 30 more Qs | **DS REVISION** — GFG MCQs |
+| 19 | Dec 5  | 09 Logical Reasoning — number series + blood relations | OS: Process states, PCB, context switching |
+| 20 | Dec 6  | 09 Logical Reasoning — syllogism + coding-decoding | OS: CPU Scheduling — FCFS, SJF, Round Robin, Priority |
+| 21 | Dec 7  | 09 Logical Reasoning — 30 mixed Qs | OS: Memory Management — paging, segmentation, virtual memory |
 
 ---
 
-## Phase 3: Full Revision (Dec 21 – Jan 2) — 13 days
+## Phase 3: Section B — DBMS + CN (Dec 8 – Dec 14) — 7 days
+
+| Day | Date | Aptitude (2 hrs) | Section B (2 hrs) |
+|-----|------|------------------|-------------------|
+| 22 | Dec 8  | 10 Verbal Ability — read topic.md + synonyms/antonyms | OS: Deadlock — Coffman conditions, Banker's algorithm concept |
+| 23 | Dec 9  | 10 Verbal Ability — sentence correction + RC | OS: Synchronization — mutex, semaphore, producer-consumer |
+| 24 | Dec 10 | **REVISION: Topics 07–10 (40 mixed Qs)** | **OS REVISION** — GFG MCQs |
+| 25 | Dec 11 | **Full Aptitude Revision — all 10 topics** | DBMS: ER model, keys (primary, foreign, candidate) |
+| 26 | Dec 12 | Aptitude timed drill — 30 Qs in 30 min | DBMS: Normalization — 1NF, 2NF, 3NF, BCNF with examples |
+| 27 | Dec 13 | Aptitude weak topics only | DBMS: SQL — SELECT, WHERE, GROUP BY, HAVING, JOINs |
+| 28 | Dec 14 | Aptitude practice (IndiaBIX 30 Qs) | DBMS: ACID properties + transactions |
+
+---
+
+## Phase 4: Section C — Electronics & Embedded (Dec 15 – Dec 24) — 10 days
+
+| Day | Date | Aptitude (2 hrs) | Section C (2 hrs) |
+|-----|------|------------------|-------------------|
+| 29 | Dec 15 | **Section B REVISION: C + DS** | CN: OSI 7 layers — name + function of each layer |
+| 30 | Dec 16 | **Section B REVISION: OS + DBMS** | CN: TCP/IP model, TCP vs UDP |
+| 31 | Dec 17 | Aptitude: Number System + % practice | CN: IP addressing — classful (A/B/C/D/E), subnet basics |
+| 32 | Dec 18 | Aptitude: Time/Work + TSD practice | CN: Port numbers, DNS, HTTP, FTP — key facts |
+| 33 | Dec 19 | Aptitude: Logical Reasoning practice | Section C: 01 Number Systems — binary, hex, octal conversions |
+| 34 | Dec 20 | Aptitude: Probability + P&C practice | Section C: 02 Logic Gates — all 7 gates + De Morgan's |
+| 35 | Dec 21 | **REVISION: Aptitude full (40 Qs timed)** | Section C: 02 Logic Gates — 30 IndiaBIX Qs |
+| 36 | Dec 22 | Aptitude weak spots | Section C: 03 Combinational Circuits — half adder, MUX, decoder |
+| 37 | Dec 23 | Aptitude IndiaBIX 30 Qs | Section C: 04 Flip-Flops — SR, D, JK, T truth tables |
+| 38 | Dec 24 | Aptitude practice | Section C: 05 MCU Basics — 8051 specs, memory types (SRAM/Flash/EEPROM) |
+
+---
+
+## Phase 5: Full Revision (Dec 25 – Jan 2) — 9 days
 
 | Day | Date | Morning (2 hrs) | Evening (2 hrs) |
 |-----|------|-----------------|-----------------|
-| 36 | Dec 21 | Section A: Full revision | Section B: C Programming + DS |
-| 37 | Dec 22 | Section A: Timed practice | Section B: OS + DBMS |
-| 38 | Dec 23 | Section A: Weak topics | Section B: CN revision |
-| 39 | Dec 24 | Section C: Digital Electronics revision | Section B: Full mock (30 Qs) |
-| 40 | Dec 25 | Section C: MCU + Embedded C | Section A: Full mock (30 Qs) |
-| 41 | Dec 26 | **Mini Full Mock: 60 Qs** (20A + 20B + 20C) | Review wrong answers |
-| 42 | Dec 27 | Section A: All formulas revision | Section B: Output prediction C programs |
-| 43 | Dec 28 | Section C: All truth tables + protocols | Section B: DBMS SQL + OS scheduling |
-| 44 | Dec 29 | **Mini Full Mock: 60 Qs** | Review wrong answers |
-| 45 | Dec 30 | Section A: Final revision | Section C: Final revision |
-| 46 | Dec 31 | Section B: Final revision | All 3 sections quick pass |
-| 47 | Jan 1  | **Full Mock: 60 Qs timed** | Review + weak spots |
-| 48 | Jan 2  | Light revision — all formulas | Early sleep, no new topics |
+| 39 | Dec 25 | Section C: 06 Embedded C — volatile, bitwise, UART/SPI/I2C | **Section C REVISION** — all topic.md files |
+| 40 | Dec 26 | **Mini Mock: 60 Qs** (20A + 20B + 20C) — timed 2 hrs | Review every wrong answer — note weak areas |
+| 41 | Dec 27 | Section A: Revise all formulas (write on paper) | Section B: C output prediction + DS complexity table |
+| 42 | Dec 28 | Section A: Logical Reasoning timed drill | Section B: OS scheduling + DBMS normalization |
+| 43 | Dec 29 | **Mini Mock: 60 Qs** — timed | Review wrong answers |
+| 44 | Dec 30 | Section A: Final formula revision | Section C: Logic gates + flip-flop truth tables revision |
+| 45 | Dec 31 | Section B: CN + DBMS final revision | Section C: 8051 + protocols final revision |
+| 46 | Jan 1  | **Full Mock: 60 Qs — timed 2 hrs** | Review all wrong answers carefully |
+| 47 | Jan 2  | Light revision — all formulas + key tables only | **Stop studying by 8pm. Sleep early.** |
 
 ---
 
 ## Mock Test Week (Jan 3 – Jan 9)
 
-| Day | Date | Activity |
-|-----|------|----------|
-| Jan 3 | Sun | Full Mock Test 1 (60 Qs, 2 hrs timed) → Review all wrong answers |
-| Jan 4 | Mon | Revise weak section from Mock 1 (2 hrs) |
-| Jan 5 | Tue | Full Mock Test 2 (60 Qs, 2 hrs timed) → Review |
-| Jan 6 | Wed | Revise weak section from Mock 2 (2 hrs) |
-| Jan 7 | Thu | Full Mock Test 3 (60 Qs, 2 hrs timed) → Review |
-| Jan 8 | Fri | Light revision only — all formulas, truth tables, key facts. NO new topics. Sleep early. |
-| Jan 9 | **EXAM DAY** | Reach center 30 min early. Carry ID proof. |
+| Day | Date | Plan |
+|-----|------|------|
+| Jan 3 | Sun | Full Mock Test 1 — 60 Qs, 2 hrs timed → review wrong answers (2 hrs) |
+| Jan 4 | Mon | Revise weakest section from Mock 1 (2 hrs only) |
+| Jan 5 | Tue | Full Mock Test 2 — 60 Qs, 2 hrs timed → review (2 hrs) |
+| Jan 6 | Wed | Revise weakest section from Mock 2 (2 hrs only) |
+| Jan 7 | Thu | Full Mock Test 3 — 60 Qs, 2 hrs timed → review (2 hrs) |
+| Jan 8 | Fri | Very light — only formulas + truth tables. No new topics. Sleep by 10pm. |
+| **Jan 9** | **SAT** | **EXAM DAY — Reach 30 min early. Carry ID proof.** |
 
 ---
 
-## Score Distribution (CCAT)
-| Section | Questions | Marks | Target Score |
-|---------|-----------|-------|--------------|
-| A — Aptitude | ~25 | 25 | 18+ |
-| B — CS Core | ~25 | 25 | 20+ |
-| C — Electronics | ~10 | 10 | 7+ |
-| **Total** | **~60** | **60** | **45+** |
+## Section B Order (Why this order?)
+1. C Programming first — all other topics need basic C knowledge
+2. Data Structures — uses arrays, pointers from C
+3. OS — conceptual, easier after DS
+4. DBMS — mostly theory + SQL
+5. Computer Networks — mostly theory
 
----
+## Target Scores
+| Section | Questions | Your Target |
+|---------|-----------|-------------|
+| A — Aptitude | ~25 Qs | 18/25 |
+| B — CS Core | ~25 Qs | 20/25 |
+| C — Electronics | ~10 Qs | 7/10 |
+| **Total** | **~60 Qs** | **45+/60** |
 
-## Quick Reference — Topic Files
-| Section | Path |
-|---------|------|
-| Section A | `CCAT_Exam/Section_A_Aptitude/` |
-| Section B | `CCAT_Exam/Section_B_CS_Core/` |
-| Section C | `CCAT_Exam/Section_C_Electronics_Embedded/` |
-| Mock Tests | `Mock_Tests/mock_test_1_full_60Q.md` |
+Passing cutoff is approximately 40/60 for DESD track.
